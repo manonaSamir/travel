@@ -57,3 +57,19 @@ background-color: #d32f2f;
 .destination:hover h2 {
 transform: rotate(0deg);
 }
+#belize {
+    background-color: #4dd0e1;
+}
+
+#barcelona {
+    background-color: #800000;
+}
+#florida {
+    background-color: #03a9f4;
+}
+#paris {
+    background-color: #d32f2f;
+}
+#scotland{
+    background-color: #388ec3;
+}
